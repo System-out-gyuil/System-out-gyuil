@@ -1,4 +1,4 @@
-## Hi there 👋
+![git_banner](https://github.com/System-out-gyuil/dev_gyuil/assets/120631088/8d1ca34b-152a-44db-b279-70c9ca49a81f)
 
 <!--
 **System-out-gyuil/System-out-gyuil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
