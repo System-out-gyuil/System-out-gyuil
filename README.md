@@ -1,4 +1,4 @@
-![git_banner_kgi](https://github.com/System-out-gyuil/System-out-gyuil/assets/120631088/a3703fac-d801-4cab-bfce-c18a8a5c757c)
+<img src="https://github.com/System-out-gyuil/System-out-gyuil/assets/120631088/a3703fac-d801-4cab-bfce-c18a8a5c757c" width="500px">
 
 ## 🪪 Introduction
 
