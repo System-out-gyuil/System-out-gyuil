@@ -18,7 +18,7 @@
   - **[KDT] AI기반 챗봇 및 OCR 개발 전문가 과정**
 
 ## 🖥️ Project
-  [웹사이트 바로가기](selleaf.online)
+  [웹사이트 바로가기](http://3.39.102.97)
 ## ⌨️ Skill
 
 ### 📌 Back-End
