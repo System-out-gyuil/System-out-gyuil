@@ -18,7 +18,7 @@
   - **[KDT] AI기반 챗봇 및 OCR 개발 전문가 과정**
 
 ## 🖥️ Project
-  [웹사이트 바로가기](http://3.39.102.97)
+  [노션 바로가기](https://recondite-angora-946.notion.site/f05272da46df45d2a5fb5d7149915310)
 ## ⌨️ Skill
 
 ### 📌 Back-End
