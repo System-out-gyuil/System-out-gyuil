@@ -34,7 +34,6 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=black"/>
       <img src="https://img.shields.io/badge/dJango-092E20?style=flat&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6db33f?style=flat&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JSP-73BA25?style=flat-square&logo=JSP&logoColor=black"/>
       <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
     </td>
     <td>
@@ -53,6 +52,7 @@
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostGreSQL-4169E1?style=flat-square&logo=PostGreSQL&logoColor=black"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
       <img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=putty&logoColor=white"/>
     </td>
     <td>
