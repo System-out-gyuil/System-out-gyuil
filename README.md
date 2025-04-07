@@ -3,7 +3,7 @@
 - 이름 : 김규일
 - 이메일 : a46884334@gmail.com
 - 취 미 : 운동, 게임, 음악감상
-- 노 션 : [노션 바로가기](https://recondite-angora-946.notion.site/f05272da46df45d2a5fb5d7149915310)
+- 노 션 : [노션 바로가기](https://www.notion.so/1c43cc3525da80e687d8fdd3fe7136a5?pvs=4)
 
 ## 🏫 History
 
