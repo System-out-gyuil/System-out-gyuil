@@ -91,13 +91,13 @@
       <img src="https://img.shields.io/badge/Putty-283274?style=flat&logo=putty&logoColor=white"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
       <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=round-square&logo=googlecolab&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=round-square&logo=googlecolab&logoColor=white"/>
       <br/>
-      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=round-square&logo=Postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=round-square&logo=jupyter&logoColor=white"/>
     </td>
