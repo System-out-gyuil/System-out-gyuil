@@ -7,6 +7,9 @@
 
 ## 🏫 History
 
+- **Insight365**
+  - Microsoft power platform engineer (2026.05 ~ )
+
 - **피오코퍼레이션**
   - AI 풀스택 웹개발자 (2025.04 ~ 2025.12)
     
